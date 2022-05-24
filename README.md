@@ -1,6 +1,5 @@
 # landingcss
 
-https://darknitedev.github.io/landingcss/
+https://darknitedev.github.io/landing-css/
 
-
-![image](https://user-images.githubusercontent.com/99200113/168939296-004af282-1ce1-49b4-bf9c-709596fcda5f.png)
+![image](https://user-images.githubusercontent.com/99200113/169941685-33b96e47-595d-4fd2-bed1-fcd27847d6c6.png)
